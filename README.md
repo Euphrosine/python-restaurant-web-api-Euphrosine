@@ -20,4 +20,4 @@ restaurants should have a name, the name of the owner(owner can be individual or
 
 
 #### Link to Postman Collection : https://documenter.getpostman.com/view/7520293/UVJhEF7u 
-#### Link to the Hosted Web API : 
+#### Link to the Hosted Web API : https://euphro-api.herokuapp.com/
