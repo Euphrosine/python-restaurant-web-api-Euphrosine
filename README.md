@@ -19,5 +19,5 @@ restaurants should have a name, the name of the owner(owner can be individual or
 #### Note: Don't be limited to the features specified in instructions, feel free to add any other feature you think is necessary.
 
 
-#### Link to Postman Collection : 
+#### Link to Postman Collection : https://documenter.getpostman.com/view/7520293/UVJhEF7u 
 #### Link to the Hosted Web API : 
